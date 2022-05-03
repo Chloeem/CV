@@ -1,4 +1,4 @@
-## Your Name
+## Chloë Emily Stokes
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech..
 
@@ -6,8 +6,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Sonder**            | A web app designed to provide all the necessities to refugee mothers, to reopen the door back to experiencing the joys of motherhood and childhood, without any limitations. | Express, Node, React, Mongoose, Jest, Cypress, Materialize.css, CSS. |
+| **Acebook** | A simplified 'Facebook' replica web app. Focusing on the principles of CRUD | Express, Node, MongoDB, Jest, Cypress, Bootstrap              |
 
 ## Work Experience
 
