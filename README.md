@@ -53,14 +53,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Dec 2021 to April 2022)
+An intensive 16-week full-stack software engineering course, with a 10% acceptance course rate. Facilitated through a combined approach of self-directed learning, daily pairing, workshops and projects.
+- Took ownership of my learning process, time-boxing tasks to increase my learning curve.
+- Used Agile methodologies to work effectively in a team, with pair programming, XP values, daily stand-ups and sprint planning.
+- Gave and receive feedback using code reviews and open/respectful communication.
+- Understood project requirements by creating user stories, defining MVP's features, broke up features in smaller tasks to easily accomplish them.
+- Collaborated with the other team members using GitHub as version control tools and using Heroku CI/CD to reduce integration risk.
+- Coded following principles like TDD and SOLID of OOP design pattern to write clear, simple code and well-tested applications.
 
 #### Your University / College (start_date to end_date)
 
