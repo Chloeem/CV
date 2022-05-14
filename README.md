@@ -6,18 +6,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Sonder**            | A web app designed to provide all the necessities to refugee mothers, to reopen the door back to experiencing the joys of motherhood and childhood, without any limitations. | Express, Node, React, Mongoose, Jest, Cypress, Materialize.css, CSS. |
+| **Sonder**                   | A web app designed to provide all the necessities to refugee mothers, to reopen the door back to experiencing the joys of motherhood and childhood, without any limitations. | Express, Node, React, MongoDB, Jest, Cypress, Materialize.css, CSS. |
 | **Acebook** | A simplified 'Facebook' replica web app. Focusing on the principles of CRUD | Express, Node, MongoDB, Jest, Cypress, Bootstrap              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Relationship Hero** (Oct 2018 to March 2019)  
+_Life Coach_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Moniker International Art Fair** (Aug 2017 to July 2018)  
+_Graphic Designer_
 
 - Any experience relevent to software development
 
