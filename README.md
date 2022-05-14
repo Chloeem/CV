@@ -1,6 +1,8 @@
 ## Chloë Emily Stokes
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech..
+I have just completed the Makers Academy Bootcamp as a scholar and ambassador with Codebar. I am looking for a Graduate Backend Engineer role within an agile company focused on driving change and positive impact. I work best in fast-paced environments with growth and learning as a continuous framework, and in a team that fosters a culture of diversity, equity, and inclusion. 
+
+For me, code should bring people together, build communities, aid accessibility for all, break down borders, establish foundations and offer greater futures. I truly believe we are responsible for what we create or put out into the world - I want to be a part of the change for now and future generations.  
 
 ## Projects
 
